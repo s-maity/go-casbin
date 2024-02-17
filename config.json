@@ -1,0 +1,4 @@
+{
+    "connection_string": "postgres://postgres:admin@localhost:5432/postgres",
+    "port": 4041
+}
